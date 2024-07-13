@@ -5,6 +5,8 @@
 + Use openCV to recognize faces and crop images
 + Automatic layout based on image size and photo paper size
 
+![traning-originals/0009_007.jpg](https://github.com/ChaoSunxin/ID-photo-layout/blob/master/test-output/0009_007.jpg?raw=true)
+
 # Install
 ```bash  
 # create python venv 
